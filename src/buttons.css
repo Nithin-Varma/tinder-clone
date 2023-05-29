@@ -1,0 +1,38 @@
+.buttons {
+    position: fixed;
+    bottom: 2vh;
+    display: flex;
+    width: 100%;
+    justify-content: space-evenly;
+}
+
+.buttons .MultiIconButton-root {
+    background-color: white;
+    box-shadow: 0px, 10px, 53px, 0px, rgba(0,0,0,0.5) !important;
+}
+
+
+.button_repeat {
+    padding: 3vw !important;
+    color: rgb(233, 154, 126) !important;
+}
+
+.button_left {
+    padding: 3vw !important;
+    color: rgb(134, 186, 229) !important;
+}
+
+.button_right {
+    padding: 3vw !important;
+    color: rgb(134, 186, 229) !important;
+}
+
+.button_star {
+    padding: 3vw !important;
+    color: rgb(222, 209, 127) !important;
+}
+
+.button_lighting {
+    padding: 3vw !important;
+    color: rgb(227, 180, 217) !important;
+}
